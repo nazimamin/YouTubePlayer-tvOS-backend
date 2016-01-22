@@ -1,0 +1,9 @@
+{
+  "firebase": "yplayer",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

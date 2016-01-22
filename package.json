@@ -1,0 +1,16 @@
+{
+    "name": "YTubePlayer",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "lien": "latest",
+        "r-json": "latest",
+        "bug-killer": "latest",
+        "opn": "latest",
+        "q": "latest",
+        "googleapis": "latest",
+        "firebase": "latest"
+    }
+}
